@@ -12,3 +12,6 @@ Instructions:
 - Run ./start.sh
 - Open the browser and go to http://localhost:8080
 - Enjoy!
+
+BASED ON:
+- https://www.youtube.com/watch?v=yz1CaFMTevk
